@@ -1,0 +1,78 @@
+body {
+  background-color:#222;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.main {
+  text-align:center;
+  color:white;
+  background-color: #666;
+  padding: 30px;
+  font-size: 35px;
+ }
+
+ .heading {
+   color:white;
+ }
+
+p {
+  color:white;
+}
+
+q {
+  color:white;
+}
+
+table {
+  font-family: arial, sans-serif;
+  width: 100%;
+}
+
+caption {
+text-decoration: underline;
+text-weight: bold;
+color:white;
+}
+
+.note { 
+  font-size:120%;
+  color: red;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  text-align: center;
+  color:white;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+}
+
+/* Style the footer */
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
